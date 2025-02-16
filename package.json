@@ -1,0 +1,20 @@
+{
+  "name": "@mehasoft/dd",
+  "version": "1.1.2",
+  "description": "A helper function similar to Laravel's dd() function.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "debug",
+    "dd",
+    "dump and die",
+    "node",
+    "nodejs",
+    "helper"
+  ],
+  "author": "Mehasoft",
+  "license": "MIT"
+}
