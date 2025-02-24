@@ -12,7 +12,7 @@
 To add it to your Node.js project:
 
 ```bash
-npm i @mehasoft/dd --save-dev
+npm i -D @mehasoft/dd
 ```
 
 📌 Usage (Es6)

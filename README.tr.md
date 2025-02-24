@@ -12,7 +12,7 @@
 Node.js projenize eklemek için:
 
 ```bash
-npm i @mehasoft/dd --save-dev
+npm i -D @mehasoft/dd
 ```
 
 ## 📌 Kullanım (ES6)
